@@ -1,3 +1,9 @@
+![TARGET 1](https://github.com/user-attachments/assets/b5da2c75-5822-4fee-a3e4-f4641ac5b50a)
+
+SRINIVAS BHAIRI | Data Scientist Aspirant
+
+[Connect me on LinkedIn](www.linkedin.com/in/srinivas-bhairi)
+
 **🚀 Objective:**
 Analyzed Brazil’s e-commerce dataset to uncover trends, optimize logistics, and evaluate customer behavior—driving strategic, data-informed decisions.
 
